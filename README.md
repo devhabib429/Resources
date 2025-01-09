@@ -6,7 +6,7 @@
   font-family: 'Arial', sans-serif; 
   color: white; 
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);">
-  <h1 style="margin: 0; font-size: 2.5rem; letter-spacing: 2px;">Welcome to My Tech Blog</h1>
+  <h1 style="margin: 0; font-size: 2.5rem; letter-spacing: 2px;">Welcome to My Blog</h1>
   <p style="font-size: 1.1rem; margin-top: 10px; font-weight: 300;">
     Dive into the latest trends, tutorials, and insights from the world of technology, programming, and innovation.
   </p>
