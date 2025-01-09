@@ -1,95 +1,159 @@
-<!-- Header Section -->
-<div style="
-  background-color: #2980b9; 
-  padding: 40px 20px; 
-  text-align: center; 
-  font-family: 'Arial', sans-serif; 
-  color: white; 
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);">
-  <h1 style="margin: 0; font-size: 2.5rem; letter-spacing: 2px;">Welcome to My Blog</h1>
-  <p style="font-size: 1.1rem; margin-top: 10px; font-weight: 300;">
-    Dive into the latest trends, tutorials, and insights from the world of technology, programming, and innovation.
-  </p>
-</div>
+<h1 align="center"> DevOps </h1>
 
-<!-- Welcome Section -->
-<div style="
-  font-family: Arial, sans-serif; 
-  max-width: 800px; 
-  margin: 20px auto; 
-  padding: 20px; 
-  background-color: #ecf0f1; 
-  border-radius: 10px; 
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-  <p style="font-size: 1.2rem; line-height: 1.6; color: #2c3e50;">
-    I'm thrilled to have you here! This is where I share my passion for technology, programming, and all things tech-related. From the latest trends to deep dives into development practices, you’ll find a wealth of insights, tips, and resources to help you grow.
-    Join me on this exciting journey as we explore the future of innovation together!
-  </p>
-</div>
+<p align="center"> Contains all my learning related to DevOps tools and tech. To get a better user experience, visit the hosted version of this repo at <a href="https://devops.pradumnasaraf.dev">devops.pradumnasaraf.dev</a> </p>
 
-<!-- Recent Posts Section -->
-<div style="
-  font-family: Arial, sans-serif; 
-  max-width: 800px; 
-  margin: 20px auto; 
-  padding: 20px; 
-  background-color: #ffffff; 
-  border-radius: 10px; 
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-  <h2 style="font-size: 1.6rem; color: #34495e;">Recent Posts</h2>
-  <ul style="font-size: 1rem; line-height: 1.8; color: #34495e;">
-    <li>
-      <a href="/_posts/2025-01-09-devops-roadmap.md" style="color: #3498db; text-decoration: none;">
-        <b>DevOps Roadmap 2025</b>
-      </a>  
-      - A detailed guide to the DevOps roadmap in 2025.
-    </li>
-    <li>
-      <a href="/_posts/2025-01-10-ai-future.md" style="color: #3498db; text-decoration: none;">
-        <b>Exploring AI in 2025</b>
-      </a>  
-      - An in-depth look at the future of artificial intelligence.
-    </li>
-    <li>
-      <a href="/_posts/2025-01-11-mastering-github.md" style="color: #3498db; text-decoration: none;">
-        <b>Mastering GitHub</b>
-      </a>  
-      - A beginner's guide to mastering GitHub and Git version control.
-    </li>
-  </ul>
-</div>
+## Docker
 
-<!-- About Me Section -->
-<div style="
-  font-family: Arial, sans-serif; 
-  max-width: 800px; 
-  margin: 20px auto; 
-  padding: 20px; 
-  background-color: #ecf0f1; 
-  border-radius: 10px; 
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-  <h2 style="font-size: 1.6rem; color: #34495e;">About Me</h2>
-  <p style="font-size: 1.1rem; line-height: 1.6; color: #2c3e50;">
-    Hi there! I’m <b>Habibur Rahman</b>, a passionate developer and tech enthusiast with a love for all things technology. I'm constantly exploring the latest innovations and sharing my discoveries through this blog. Whether it’s diving deep into programming concepts, exploring emerging tech trends, or offering development tips, I’m here to inspire and empower you. Stay tuned for insightful posts that will help you stay ahead in the world of tech!
-  </p>
-</div>
+<img align="right" src="https://user-images.githubusercontent.com/51878265/200594916-47ba8a4c-fb94-4953-b179-dfb542df9499.png" height="100" alt="docker"> 
 
-<!-- Contact Section -->
-<div style="
-  font-family: Arial, sans-serif; 
-  max-width: 800px; 
-  margin: 20px auto; 
-  padding: 20px; 
-  background-color: #ffffff; 
-  border-radius: 10px; 
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-  <h2 style="font-size: 1.6rem; color: #34495e;">Contact</h2>
-  <p style="font-size: 1rem; line-height: 1.6; color: #34495e;">
-    Have questions or feedback? Feel free to reach out:
-    <ul>
-      <li><b>Email</b>: <a href="mailto:devhabib429@gmail.com" style="color: #3498db;">devhabib429@gmail.com</a></li>
-      <li><b>Twitter</b>: <a href="https://x.com/HRahman429" style="color: #3498db;">@HRahman429</a></li>
-      <li><b>GitHub</b>: <a href="https://github.com/devhabib429" style="color: #3498db;">devhabib429</a></li>
-    </ul>
-  </p>
-</div>
+- [Notes](docs/docker/introduction.md)
+- [Learning Resources](docs/docker/learning-resources.md)
+- [Commands](docs/docker/commands.md)
+- [Compose/Stack Files](https://github.com/Pradumnasaraf/DevOps/tree/main/docs/docker/docker-compose)
+- [Dockerfile](https://github.com/Pradumnasaraf/DevOps/tree/main/docs/docker/dockerfiles)
+
+<be>
+
+## Kubernetes
+
+<img align="right" src="https://user-images.githubusercontent.com/51878265/200594367-f416d081-af8f-4f48-8008-998d005b317f.png" height="100" alt="Kubernetes"> 
+
+- [Notes](docs/kubernetes/introduction.md)
+- [Learning Resources](docs/kubernetes/learning-resources.md)
+- [Commands](docs/kubernetes/commands.md)
+- [Sample Apps](https://github.com/Pradumnasaraf/DevOps/tree/main/docs/kubernetes/apps)
+- [Manifest Files](https://github.com/Pradumnasaraf/DevOps/tree/main/docs/kubernetes/k8s-resources-type)
+- [Tools](docs/kubernetes/tools.md)
+- [Playground](docs/kubernetes/playground.md)
+- [Other Resources](docs/kubernetes/other-resources.md)
+
+<br>
+
+## GitHub Actions
+
+<img align="right" src="https://user-images.githubusercontent.com/51878265/211621722-c2ddc389-6e4e-4769-9dac-f18f8e71fed3.png" height="100" alt="GitHub Action"> 
+
+- [Notes](docs/github-actions/introduction.md)
+- [Learning Resources](docs/github-actions/learning-resources.md)
+- [Workflows](https://github.com/Pradumnasaraf/DevOps/tree/main/docs/github-actions/Workflows)
+- [Scenarios](docs/github-actions/scenarios.md)
+- [Other Resources](docs/github-actions/other-resources.md)
+
+<br>
+
+## Linux
+
+<img align="right" src="https://user-images.githubusercontent.com/51878265/209197882-51406a8f-04ff-4c53-a362-ac32ae8566ad.png" height="100" alt="linux"> 
+
+- [Notes](docs/linux/introduction.md)
+- [Learning Resources](docs/linux/learning-resources.md)
+- [Commands](docs/linux/commands.md)
+
+<br>
+
+## Git 
+
+<img align="right" src="https://user-images.githubusercontent.com/51878265/202784470-2c813581-7160-4aaf-b96c-35187795d05b.png" height="100" alt="git"> 
+
+- [Notes](docs/git/introduction.md)
+- [Learning Resources](docs/git/learning-resources.md)
+- [Commands](docs/git/commands.md)
+
+<br>
+
+## Networking
+
+<img align="right" src="https://user-images.githubusercontent.com/51878265/204347251-efd0e271-5d3c-4008-bdab-6f6ce5b2195f.png" height="100" alt="network"> 
+
+- [Notes](docs/networking/introduction.md)
+- [Learning Resources](docs/networking/learning-resources.md)
+- [Commands](docs/networking/commands.md)
+
+<br>
+
+## YAML
+
+<img align="right" src="https://user-images.githubusercontent.com/51878265/202765143-55758916-b631-4c18-aaad-718b42507d67.png" height="100" alt="YAML"> 
+
+- [Notes](docs/yaml/introduction.md)
+- [Learning Resources](docs/yaml/learning-resources.md)
+
+<br>
+
+## Golang (Go)
+
+<img align="right" src="https://user-images.githubusercontent.com/51878265/213385507-52f03107-388c-4992-9b5e-c89de6906e37.png" height="100" alt="network"> 
+
+- [Notes](docs/go/introduction.md)
+- [Learning Resources](docs/go/learning-resources.md)
+- [Concepts](https://github.com/Pradumnasaraf/DevOps/tree/main/docs/golang/concepts)
+- [Practice App](https://github.com/Pradumnasaraf/DevOps/tree/main/docs/golang/apps)
+- [Other Resources](docs/go/other-resources.md)
+
+<br>
+
+## Helm
+
+<img align="right" src="https://user-images.githubusercontent.com/51878265/202859249-b90ac510-d8e8-408d-9c07-0d2bd8e1b092.png" height="100" alt="Helm"> 
+
+- [Notes](docs/helm/introduction.md)
+- [Learning Resources](docs/helm/learning-resources.md)
+- [Charts](https://github.com/Pradumnasaraf/DevOps/tree/main/docs/helm/charts)
+
+<br>
+
+## Prometheus
+
+<img align="right" src="https://user-images.githubusercontent.com/51878265/202859485-eba6809e-1cb8-4bbc-ab22-efa3c91d6463.png" height="100" alt="Prometheus"> 
+
+- [Notes](docs/prometheus/introduction.md)
+- [Learning Resources](docs/prometheus/learning-resources.md)
+
+<br>
+
+## GitOps
+
+<img align="right" src="https://user-images.githubusercontent.com/51878265/206730962-b20f94c1-17af-48b2-b62c-b6c02dbeeb77.png" height="100" alt="Gitops"> 
+
+- [Notes](docs/gitops/introduction.md)
+- [Learning Resources](docs/gitops/learning-resources.md)
+
+<br>
+
+## ArgoCD
+
+<img align="right" src="https://user-images.githubusercontent.com/51878265/205495495-b3f0b395-3ce3-42d8-9274-220ff10334f6.png" height="100" alt="Argo"> 
+
+- [Notes](docs/argocd/introduction.md)
+- [Learning Resources](docs/argocd/learning-resources.md)
+- [Manifest Files](https://github.com/Pradumnasaraf/DevOps/tree/main/docs/argocd/manifests)
+
+<br>
+
+## Jenkins 
+
+<img align="right" src="https://user-images.githubusercontent.com/51878265/209197795-570330e6-fbee-4bf3-a42e-b8609e3afc46.png" height="100" alt="Jenkins"> 
+
+- [Notes](docs/jenkins/introduction.md)
+- [Learning Resources](docs/jenkins/learning-resources.md)
+- [Jenkinsfile](https://github.com/Pradumnasaraf/DevOps/tree/main/docs/jenkins/jenkinsfiles)
+<br>
+
+## Bash Scripting 
+
+<img align="right" src="https://user-images.githubusercontent.com/51878265/200594989-b1406680-ed41-478a-84d5-7c35b287e112.png" height="100" alt="Bash"> 
+
+- [Notes](docs/bash-scripting/introduction.md)
+- [Learning Resources](docs/bash-scripting/learning-resources.md)
+- [Script](https://github.com/Pradumnasaraf/DevOps/tree/main/docs/bash-scripting/scripts)
+
+<br>
+
+## WebAssembly
+
+<img align="right" src="https://github.com/user-attachments/assets/0687a31f-fa90-4aeb-b3f2-b841d8758f77" height="100" alt="Wasm">
+
+- [Notes](docs/webassembly/introduction.md)
+- [Learning Resources](docs/webassembly/learning-resources.md)
+- [Tools](docs/webassembly/tools.md)
+- [Files and Sample Apps](https://github.com/Pradumnasaraf/DevOps/tree/main/docs/webassembly/files)
