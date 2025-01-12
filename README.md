@@ -44,18 +44,6 @@
       </a>  
       - A detailed guide to the DevOps roadmap in 2025.
     </li>
-    <li>
-      <a href="/_posts/2025-01-10-ai-future.md" style="color: #3498db; text-decoration: none;">
-        <b>Exploring AI in 2025</b>
-      </a>  
-      - An in-depth look at the future of artificial intelligence.
-    </li>
-    <li>
-      <a href="/_posts/2025-01-11-mastering-github.md" style="color: #3498db; text-decoration: none;">
-        <b>Mastering GitHub</b>
-      </a>  
-      - A beginner's guide to mastering GitHub and Git version control.
-    </li>
   </ul>
 </div>
 
