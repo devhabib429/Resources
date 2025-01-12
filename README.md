@@ -1,18 +1,4 @@
-<!-- Header Section -->
-<header style="
-  background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);
-  padding: 60px 20px; 
-  text-align: center; 
-  font-family: 'Arial', sans-serif; 
-  color: white; 
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-  <h1 style="margin: 0; font-size: 3rem; letter-spacing: 2px;">Welcome to My Blog</h1>
-  <p style="font-size: 1.2rem; margin-top: 15px; font-weight: 300;">
-    Explore the latest trends, tutorials, and insights in technology, programming, and innovation.
-  </p>
-</header>
-
-<!-- Welcome Section -->
+<!-- Thought Section -->
 <section style="
   font-family: 'Arial', sans-serif; 
   max-width: 900px; 
@@ -26,7 +12,7 @@
   </p>
 </section>
 
-<!-- Recent Posts Section -->
+<!-- Blog Categories Section -->
 <section style="
   font-family: 'Arial', sans-serif; 
   max-width: 900px; 
@@ -35,20 +21,27 @@
   background: #f8f9fa; 
   border-radius: 12px; 
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.1);">
-  <h2 style="font-size: 1.8rem; color: #34495e; margin-bottom: 20px;">Recent Posts</h2>
+  <h2 style="font-size: 1.8rem; color: #34495e; margin-bottom: 20px;">Blog Categories</h2>
   <ul style="list-style: none; padding: 0;">
     <li style="margin-bottom: 15px;">
-      <a href="/_posts/2025-01-09-devops-roadmap.md" style="color: #3498db; text-decoration: none; font-size: 1.2rem;">
-        <b>DevOps Roadmap 2025</b>
+      <a href="/tech" style="color: #3498db; text-decoration: none; font-size: 1.2rem;">
+        <b>Technology</b>
       </a>
-      <p style="margin: 5px 0 0; color: #555; font-size: 1rem;">
-        A detailed guide to the DevOps roadmap in 2025.
-      </p>
+    </li>
+    <li style="margin-bottom: 15px;">
+      <a href="/programming" style="color: #3498db; text-decoration: none; font-size: 1.2rem;">
+        <b>Programming</b>
+      </a>
+    </li>
+    <li style="margin-bottom: 15px;">
+      <a href="/innovation" style="color: #3498db; text-decoration: none; font-size: 1.2rem;">
+        <b>Innovation</b>
+      </a>
     </li>
   </ul>
 </section>
 
-<!-- About Me Section -->
+<!-- Resource Links Section -->
 <section style="
   font-family: 'Arial', sans-serif; 
   max-width: 900px; 
@@ -57,10 +50,24 @@
   background: white; 
   border-radius: 12px; 
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.1);">
-  <h2 style="font-size: 1.8rem; color: #34495e; margin-bottom: 20px;">About Me</h2>
-  <p style="font-size: 1.2rem; line-height: 1.8; color: #2c3e50;">
-    Hello! I’m <b>Habibur Rahman</b>, a developer and tech enthusiast with a passion for technology. I love exploring innovations and sharing my findings through this blog. From programming concepts to tech trends, my goal is to inspire and empower you with actionable knowledge. Let’s grow and innovate together!
-  </p>
+  <h2 style="font-size: 1.8rem; color: #34495e; margin-bottom: 20px;">Helpful Resources</h2>
+  <ul style="list-style: none; padding: 0;">
+    <li style="margin-bottom: 15px;">
+      <a href="https://www.freecodecamp.org/" style="color: #3498db; text-decoration: none; font-size: 1.2rem;">
+        <b>FreeCodeCamp</b> - Learn to code for free
+      </a>
+    </li>
+    <li style="margin-bottom: 15px;">
+      <a href="https://developer.mozilla.org/en-US/" style="color: #3498db; text-decoration: none; font-size: 1.2rem;">
+        <b>MDN Web Docs</b> - Comprehensive Web Development Documentation
+      </a>
+    </li>
+    <li style="margin-bottom: 15px;">
+      <a href="https://www.codecademy.com/" style="color: #3498db; text-decoration: none; font-size: 1.2rem;">
+        <b>Codecademy</b> - Interactive coding courses
+      </a>
+    </li>
+  </ul>
 </section>
 
 <!-- Contact Section -->
