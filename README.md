@@ -1,5 +1,3 @@
-![Header Image](https://via.placeholder.com/900x200?text=Welcome+to+My+Blog)
-
 <!-- Thought Section -->
 <section style="
   font-family: 'Arial', sans-serif; 
@@ -23,7 +21,7 @@
   background: white; 
   border-radius: 12px; 
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.1);">
-  <h2 style="font-size: 1.8rem; color: #34495e; margin-bottom: 20px;">Helpful Resources</h2>
+  <h2 style="font-size: 1.8rem; color: #34495e; margin-bottom: 20px;">Contents</h2>
   <ul style="list-style: none; padding: 0;">
     <li style="margin-bottom: 15px;">
       <a href="https://www.freecodecamp.org/" style="color: #3498db; text-decoration: none; font-size: 1.2rem;">
