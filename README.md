@@ -10,7 +10,7 @@
   border-radius: 12px; 
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.1);">
   <p style="font-size: 1.3rem; line-height: 1.8; color: #2c3e50;">
-    Welcome! I'm thrilled to have you here. This is your go-to destination for all things tech, including the latest trends, deep dives into development practices, and actionable insights to grow your skills.
+    Welcome! I'm thrilled to have you here. Dive into the latest tech trends, development practices, and grow your skills!
   </p>
 </section>
 
