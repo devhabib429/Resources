@@ -1,3 +1,5 @@
+![Header Image](https://via.placeholder.com/900x200?text=Welcome+to+My+Blog)
+
 <!-- Thought Section -->
 <section style="
   font-family: 'Arial', sans-serif; 
@@ -8,7 +10,7 @@
   border-radius: 12px; 
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.1);">
   <p style="font-size: 1.3rem; line-height: 1.8; color: #2c3e50;">
-    Welcome! I'm thrilled to have you here. This is your go-to destination for all things tech, including the latest trends, deep dives into development practices, and actionable insights to grow your skills. Together, let’s embark on a journey to uncover the future of innovation.
+    Welcome! I'm thrilled to have you here. This is your go-to destination for all things tech, including the latest trends, deep dives into development practices, and actionable insights to grow your skills.
   </p>
 </section>
 
