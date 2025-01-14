@@ -14,35 +14,6 @@
   </p>
 </section>
 
-<!-- Blog Categories Section -->
-<section style="
-  font-family: 'Arial', sans-serif; 
-  max-width: 900px; 
-  margin: 40px auto; 
-  padding: 30px; 
-  background: #f8f9fa; 
-  border-radius: 12px; 
-  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.1);">
-  <h2 style="font-size: 1.8rem; color: #34495e; margin-bottom: 20px;">Blog Categories</h2>
-  <ul style="list-style: none; padding: 0;">
-    <li style="margin-bottom: 15px;">
-      <a href="/tech" style="color: #3498db; text-decoration: none; font-size: 1.2rem;">
-        <b>Technology</b>
-      </a>
-    </li>
-    <li style="margin-bottom: 15px;">
-      <a href="/programming" style="color: #3498db; text-decoration: none; font-size: 1.2rem;">
-        <b>Programming</b>
-      </a>
-    </li>
-    <li style="margin-bottom: 15px;">
-      <a href="/innovation" style="color: #3498db; text-decoration: none; font-size: 1.2rem;">
-        <b>Innovation</b>
-      </a>
-    </li>
-  </ul>
-</section>
-
 <!-- Resource Links Section -->
 <section style="
   font-family: 'Arial', sans-serif; 
