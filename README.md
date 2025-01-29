@@ -29,13 +29,8 @@
       </a>
     </li>
     <li style="margin-bottom: 15px;">
-      <a href="https://developer.mozilla.org/en-US/" style="color: #3498db; text-decoration: none; font-size: 1.2rem;">
-        <b>MDN Web Docs</b> - Comprehensive Web Development Documentation
-      </a>
-    </li>
-    <li style="margin-bottom: 15px;">
-      <a href="https://www.codecademy.com/" style="color: #3498db; text-decoration: none; font-size: 1.2rem;">
-        <b>Codecademy</b> - Interactive coding courses
+      <a href="https://medium.com/@devhabib429/host-a-static-website-using-ci-cd-pipeline-with-github-action-codepipeline-in-s3-week-1-d868fef0dc2e" style="color: #3498db; text-decoration: none; font-size: 1.2rem;">
+        <b>Hosting Static Website in S3</b> - Host a Static Website Using CI/CD Pipeline With Github Action & CodePipeline In S3
       </a>
     </li>
   </ul>
